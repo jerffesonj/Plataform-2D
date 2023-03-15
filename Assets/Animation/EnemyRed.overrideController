@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: EnemyRed
+  m_Controller: {fileID: 9100000, guid: 148b1aee67c8bb041ba5f468e98f1e65, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: e2d92cd7e28af7044ae901e4955e07c9, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 9d9102e0e11f99d49845075309d7c847, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 51c222a633649ae449be359c56cc8c7a, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 825f678d667c4494fb87a2ad1f01195b, type: 2}
